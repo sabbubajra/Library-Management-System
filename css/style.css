@@ -1,0 +1,78 @@
+body
+{
+	margin:0px;
+	padding:0px;
+	border-top:10px solid grey;
+	width:500px;
+	margin:0px;
+	padding:0px;
+	width:915px;
+	height:915px;
+	border-bottom:10px solid black;
+}
+.main
+{
+	margin:0px;
+	padding:0px;
+	width:500px;
+	width:915px;
+	height:900px;
+	border-bottom:5px solid white;
+}
+
+.green 
+{
+	width:210px;
+	height:900px;
+	background-color:green;
+	float:left;
+	border-right:5px solid white;
+}
+.pink
+{
+	width:700px;
+	height:900px;
+	background-color:pink;
+	float:left;
+}
+h1
+{
+	text-align:center;
+	color:blue;
+	font-size:50px;
+}
+p
+{
+	text-align:center;
+	color:blue;
+	font-size:40px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 210px;
+    
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-size:25px;
+}
+
+/* Change the link color on hover */
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+img
+{
+	display: block;
+    margin-left:auto;
+    margin-right: auto;
+    width: 40%;
+    margin-top:100px;
+}

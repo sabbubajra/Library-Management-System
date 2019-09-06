@@ -1,0 +1,38 @@
+body
+{
+	margin:0px;
+	padding:0px;
+	
+}
+h1
+{
+	text-align:center;
+	text-decoration:underline;
+	color:blue;
+	padding-top:30px;
+}
+.pink
+{
+	background-color:pink;
+	width:700px;
+	height:400px;
+	margin-top:50px;
+	margin-left:70px;
+}
+
+td{
+	text-align:right;
+	color:blue;
+}
+table
+{
+	margin-left:50px;
+}
+tr
+{
+	height:40px;
+}
+button{
+	margin-left:320px;
+	margin-top:20px;
+}
